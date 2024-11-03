@@ -1,1 +1,1 @@
-Esse repositório estão as fotos do projeto montados
+O repositório inclui fotos detalhadas do projeto montado, mostrando a instalação completa e a disposição dos componentes. Além disso, é possível encontrar imagens ilustrando o funcionamento do sistema e exemplos das etapas de construção.
