@@ -1,1 +1,1 @@
-O repositório inclui fotos detalhadas do projeto montado, mostrando a instalação completa e a disposição dos componentes. Além disso, é possível encontrar imagens ilustrando o funcionamento do sistema e exemplos das etapas de construção.
+O repositório inclui fotos do diagrama eletrônico completa da placa eletrônica e fotos da montagem final do projeto em funcionamento.
